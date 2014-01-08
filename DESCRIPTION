@@ -1,9 +1,12 @@
 Package: eqnfree
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: Equation-free modeling of multiscale systems
+Version: 0.1
 Date: 2014-01-08
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Noam Ross
+Maintainer: Noam Ross <noam.ross@gmail.com>
+Description: Implementing methods described in Kevrekidis et al. (2009) 
+    Equation-free multiscale computation: algorithms and applications. Ann. Rev.
+    Phys. Chem. 60:32-44 doi.org/b62p4k
+License: CC0
+URL: https://github.com/noamross/eqnfree
